@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdvancedLists/1.0.0": {
+        "runtime": {
+          "AdvancedLists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvancedLists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

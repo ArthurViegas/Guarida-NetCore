@@ -1,0 +1,15 @@
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\bin\Debug\net8.0\AdvancedLists.exe
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\bin\Debug\net8.0\AdvancedLists.deps.json
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\bin\Debug\net8.0\AdvancedLists.runtimeconfig.json
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\bin\Debug\net8.0\AdvancedLists.dll
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\bin\Debug\net8.0\AdvancedLists.pdb
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\obj\Debug\net8.0\AdvancedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\obj\Debug\net8.0\AdvancedLists.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\obj\Debug\net8.0\AdvancedLists.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\obj\Debug\net8.0\AdvancedLists.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\obj\Debug\net8.0\AdvancedLists.sourcelink.json
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\obj\Debug\net8.0\AdvancedLists.dll
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\obj\Debug\net8.0\refint\AdvancedLists.dll
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\obj\Debug\net8.0\AdvancedLists.pdb
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\obj\Debug\net8.0\AdvancedLists.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\Guarida\AdvancedLists\obj\Debug\net8.0\ref\AdvancedLists.dll
