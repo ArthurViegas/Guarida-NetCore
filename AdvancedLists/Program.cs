@@ -7,22 +7,22 @@
         {
             List<string> originalList = ["maçã", "banana", "banana", "laranja", "banana", "maçã", "banana"];
             
-            ImprimirLista(originalList, "Lista Original");
+            WriteList(originalList, "Lista Original");
 
             var orderedList = OrdenarPorFrequencia(originalList);
 
-            ImprimirLista(orderedList, "Lista Ordenada");
+            WriteList(orderedList, "Lista Ordenada");
         }
 
-        public static List<string> OrdenarPorFrequencia(List<string> lista)
+        public static List<string> OrdenarPorFrequencia(List<string> list)
         {
-            return lista.GroupBy(x => x)
+            return list.GroupBy(x => x)
                                   .OrderByDescending(y => y.Count())
                                   .Select(y => y.Key)
                                   .ToList();
         }
 
-        static void ImprimirLista(List<string> list, string description)
+        private static void WriteList(List<string> list, string description)
         {
             Console.WriteLine($"{description}: ");
 
