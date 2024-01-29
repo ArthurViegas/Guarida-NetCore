@@ -5,6 +5,7 @@
     {
         public static void Main()
         {
+            // Passe os valores a serem testados
             List<string> originalList = ["maçã", "banana", "banana", "laranja", "banana", "maçã", "banana"];
             
             WriteList(originalList, "Lista Original");
